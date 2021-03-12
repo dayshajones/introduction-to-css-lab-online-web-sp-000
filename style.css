@@ -1,6 +1,5 @@
 /* Tag selector to select the 'body' element */
 body {
-  /* Your code here! */
   color: #00b3e6;
 }
 
@@ -15,7 +14,7 @@ div {
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  /* Your code here! */
+  font-size: 22px;
   color:red;
 }
 
